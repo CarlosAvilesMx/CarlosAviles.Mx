@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /css
+Disallow: /fonts
+Disallow: /help
+Disallow: /img
+Disallow: /test
+Disallow: /jf
+Disallow: /js
+Allow: Googlebot
+Allow: index.html

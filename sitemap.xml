@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://carlosaviles.mx/</loc>
+  <lastmod>2015-06-22T15:33:02+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://carlosaviles.mx/#cover</loc>
+  <lastmod>2015-06-22T15:33:02+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://carlosaviles.mx/#about</loc>
+  <lastmod>2015-06-22T15:33:02+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://carlosaviles.mx/#work</loc>
+  <lastmod>2015-06-22T15:33:02+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://carlosaviles.mx/#contact</loc>
+  <lastmod>2015-06-22T15:33:02+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>
